@@ -4,8 +4,10 @@
 - 🌱 I’m currently bulding Fullstack Development and Backend Development projects
 - 💞️ I’m open to collaborate on Hard problems solving
 - 📫 How to reach me : jaybajaj0023@gmail.com / 9987285348
-
-- ![image](https://github.com/user-attachments/assets/a8d4773f-5d5e-4ad2-81c6-0d3e9a9b2f21)
+![image](https://github.com/user-attachments/assets/69d02017-3055-4ee0-a395-6f006790d6ab)
+![image](https://github.com/user-attachments/assets/bc9a7cb1-3e31-4f4e-88a8-0c36d043ddb5)
+![image](https://github.com/user-attachments/assets/9b7c3f4e-3073-4a5f-bff0-b32a1f81f7ad)
+![image](https://github.com/user-attachments/assets/fdb7ec96-f911-446b-96c1-972acfa771df)
 
 
 <!---
