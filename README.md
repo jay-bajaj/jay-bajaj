@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jay-bajaj
 - 👀 I’m interested in App and Web Developments
-- 🌱 I’m currently learning Fullstack Development and Backend Development
-- 💞️ I’m looking to collaborate on App development projects
+- 🌱 I’m currently bulding Fullstack Development and Backend Development projects
+- 💞️ I’m open to collaborate on Hard problems solving
 - 📫 How to reach me : jaybajaj0023@gmail.com / 9987285348
 
 <!---
